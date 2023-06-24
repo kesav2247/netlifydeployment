@@ -1,0 +1,28 @@
+body{
+    background-color:rgb(81, 86, 90);
+}
+
+.fa{
+    color: rgb(9, 187, 241);
+}
+.box{
+    padding: 60px;
+    
+}
+a{
+  border-bottom: 1px solid blue;
+}
+.box-inside{
+    text-align: center;
+    padding: 60px 5px;
+    margin: 20px 10px;
+    background-color: white;
+    border-radius: 30px;
+}
+span{
+    font-size: 15px;
+
+}
+.contant{
+    margin:20px 0px
+}
